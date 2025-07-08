@@ -2,6 +2,7 @@
 A simple desktop-based Employee Management System built using Java Swing and MySQL. It allows administrators to manage employee records through a graphical interface — including adding, viewing, updating, and deleting employees.
 
 📌 Features
+
 ✅ Add new employee details
 
 ✅ View all employee records
@@ -17,6 +18,7 @@ A simple desktop-based Employee Management System built using Java Swing and MyS
 ✅ Integrated with MySQL using JDBC
 
 🛠️ Tech Stack
+
 Frontend: Java Swing, AWT
 
 Backend: MySQL
